@@ -1,0 +1,10 @@
+# Replace "???" with your bot's token
+token: "???"
+
+# Will automatically create 13+ and 12- roles upon joining a guild if set to true
+autoCreateRoles: true
+
+# Will automatically assign role when user answers the question if set to true
+role13+: true
+role12-: true
+  
